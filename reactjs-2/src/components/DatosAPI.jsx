@@ -19,7 +19,7 @@ function DatosAPI(){
 
     // -- Logica de funciones
 
-    //Gracias al helper getUser me devuelve los usuarios de la api reqres.in
+    //Gracias al helpers getUser me devuelve los usuarios de la api reqres.in
     function traerUsuarios(){
         getUsers()
             .then(users => {
