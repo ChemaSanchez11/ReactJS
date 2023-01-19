@@ -1,0 +1,29 @@
+{
+  "tareas": [
+    {
+      "name": "test",
+      "type": "Tarea Corto Alcante",
+      "id": 1
+    },
+    {
+      "name": "prueba 2",
+      "type": "Tarea Corto Alcance",
+      "id": 2
+    },
+    {
+      "name": "hh",
+      "type": "Tarea Corto Alcance",
+      "id": 3
+    },
+    {
+      "name": "retoijknrsetyihoudgfh",
+      "type": "Tarea Corto Alcance",
+      "id": 4
+    },
+    {
+      "name": "retoijknrsetyihoudgfh",
+      "type": "Tarea Prioritaria",
+      "id": 5
+    }
+  ]
+}
