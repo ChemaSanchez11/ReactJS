@@ -1,0 +1,9 @@
+.card {
+    width: 18em;
+    color: black;
+}
+
+.user-img {
+    border-radius: 50%;
+    width: 70%;
+}
