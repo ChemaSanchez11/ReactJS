@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "token": "9D5vonYDnUArWiS74Qe+QVKaGmpZMqFJIOcyZ7tI",
+        "ip": "127.0.0.1",
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "port": "3306",
+        "active": "yes"
+    },
+    {
+        "id": 2,
+        "token": "9D5vonYDnUArWhux8BC3W2KIClhCM5FiTIsxYg==",
+        "ip": "127.0.0.1",
+        "host": "Server",
+        "user": "admin",
+        "password": "",
+        "port": "3306",
+        "active": "yes"
+    },
+    {
+        "id": 3,
+        "token": "9D5vonYDnUArWgm66xKzdgzYMWoYbv4L",
+        "ip": "127.0.0.1",
+        "host": "Anita",
+        "user": "11",
+        "password": "",
+        "port": "3306",
+        "active": "yes"
+    }
+]

@@ -1,0 +1,12 @@
+body {
+  background: white;
+}
+
+.bg-grey {
+  background-color: #c4c4c4 !important;
+}
+
+.border-y {
+  border-bottom: 1px black solid;
+  border-top: 1px black solid;
+}
